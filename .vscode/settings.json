@@ -1,0 +1,24 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnSave": false,
+  "dart.formatOnType": true,
+  "dart.formatOnSave": false,
+  "dart.lineLength": 80,
+  "editor.rulers": [80],
+  "dart.insertArgumentPlaceholders": false,
+  "dart.completeFunctionCalls": true,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.closingLabels": true,
+  "dart.enableSdkFormatter": true,
+  "dart.preserveTrailingCommas": true,
+  "dart.autoImportCompletions": true,
+  "dart.analysisExcludedFolders": [],
+  "dart.flutterSdkPath": null,
+  "dart.sdkPath": null,
+  "[dart]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": false
+  }
+}
