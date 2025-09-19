@@ -1,9 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:toku/models/number.dart';
-import 'package:toku/models/family_member.dart';
-import 'package:toku/models/color.dart';
-import 'package:toku/models/phrase.dart';
+import 'package:toku/models/classes.dart';
+
 
 class Item extends StatelessWidget {
   const Item({

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toku/components/item.dart';
-import 'package:toku/models/number.dart';
+import 'package:toku/models/classes.dart';
 
 
 class NumbersPage extends StatelessWidget {

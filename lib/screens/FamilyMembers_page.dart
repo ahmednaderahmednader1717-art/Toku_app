@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toku/components/item.dart';
-import 'package:toku/models/family_member.dart';
+import 'package:toku/models/classes.dart';
 
 class FamilyMembersPage extends StatelessWidget {
   const FamilyMembersPage({super.key});

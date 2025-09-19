@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toku/components/item.dart';
-import 'package:toku/models/color.dart';
+import 'package:toku/models/classes.dart';
 
 class ColorsPage extends StatelessWidget {
   const ColorsPage({super.key});
