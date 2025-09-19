@@ -5,50 +5,50 @@ import 'package:toku/models/item.dart';
 class ColorsPage extends StatelessWidget {
   const ColorsPage({super.key});
 
-  final List<ColorItem> colors = const [
-    ColorItem(
+  final List<itemModel> colors = const [
+    itemModel(
       image: "assets/images/colors/color_red.png",
       jpName: "Aka",
       enName: "Red",
       audio: "sounds/colors/red.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_green.png",
       jpName: "Midori",
       enName: "Green",
       audio: "sounds/colors/green.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_black.png",
       jpName: "Kuro",
       enName: "Black",
       audio: "sounds/colors/black.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_white.png",
       jpName: "Shiro",
       enName: "White",
       audio: "sounds/colors/white.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_brown.png",
       jpName: "Chairo",
       enName: "Brown",
       audio: "sounds/colors/brown.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_gray.png",
       jpName: "Haiiro",
       enName: "Gray",
       audio: "sounds/colors/gray.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/yellow.png",
       jpName: "Kiiro",
       enName: "Yellow",
       audio: "sounds/colors/yellow.wav",
     ),
-    ColorItem(
+    itemModel(
       image: "assets/images/colors/color_dusty_yellow.png",
       jpName: "Kiiro",
       enName: "Dusty Yellow",

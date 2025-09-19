@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toku/components/Category_item.dart';
-import 'package:toku/screens/Colors_Page.dart';
-import 'package:toku/screens/FamilyMembers_page.dart';
+import 'package:toku/screens/colors_page.dart';
+import 'package:toku/screens/familymembers_page.dart';
 import 'package:toku/screens/Phrases_page.dart';
 import 'Numbers_Page.dart';
 

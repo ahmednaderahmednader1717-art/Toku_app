@@ -12,9 +12,9 @@ class Item extends StatelessWidget {
     this.phrase,
   });
 
-  final Number? number;
-  final FamilyMember? familyMember;
-  final ColorItem? colorItem;
+  final itemModel? number;
+  final itemModel? familyMember;
+  final itemModel? colorItem;
   final Phrase? phrase;
 
   @override
@@ -93,19 +93,16 @@ class Item extends StatelessWidget {
                   onPressed: () {
                     final player = AudioPlayer();
                     player.play(AssetSource(audio));
-                    print('sound played');
                   },
                   icon: Icon(Icons.play_arrow, size: 40, color: Colors.white),
                 ),
-              
+
+
+
               ],
               
             ),
           ),
-                Divider(
-        thickness: 1,
-        color: Colors.black,
-      )
         ],
       ),
       
