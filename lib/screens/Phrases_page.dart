@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:toku/components/item.dart';
-import 'package:toku/models/classes.dart';
+import 'package:toku/components/list_items.dart';
+import 'package:toku/models/item.dart';
 
 class PhrasesPage extends StatelessWidget {
   const PhrasesPage({super.key});

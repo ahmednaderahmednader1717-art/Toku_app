@@ -1,6 +1,6 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:toku/models/classes.dart';
+import 'package:toku/models/item.dart';
 
 
 class Item extends StatelessWidget {
